@@ -1,4 +1,4 @@
-# Vue 3 Full Course - Build 10 Apps in 10 Hours
+# Vue 3 Full Course - Build 10 Apps 
 
 ## Teachnologies Used
 
@@ -10,9 +10,6 @@
 6. Firebase Authentication
 7. Firebase Real Time Database
 
-## Demo 👇
-
-[Netlify Deployed Project](https://vue3-full-course.netlify.app)
 
 ## 10 Apps Build
 
@@ -67,6 +64,4 @@
     2. Device Camera Open
     3. Working with Canvas
 
-### Youtube Tutorial Link
 
-[YouTube Link](https://youtube.com/bitfumes)
