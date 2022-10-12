@@ -2,19 +2,14 @@
   <div class="flex w-full">
     <div class="m-auto">
       <h1 class="text-center text-2xl md:text-4xl my-2">
-        Vue 3 Full Course - 10 Apps in 10 Hours
+        Vue 3 Full Course - 10 Apps
       </h1>
       <div class="">
         <div class="flex justify-around mb-4">
           <a
-            href="https://github.com/bitfumes/vue3-for-beginners"
+            href="https://github.com/wakkarkhan/Vue3-practice-Apps"
             target="_blank"
             >Github Source Code</a
-          >
-          <a
-            href="https://www.canva.com/design/DAEJRdAPBlc/V_Tcr4uLQhpf7Gh0ANXAKw/view?utm_content=DAEJRdAPBlc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
-            target="_blank"
-            >Canva Presentation</a
           >
         </div>
 
